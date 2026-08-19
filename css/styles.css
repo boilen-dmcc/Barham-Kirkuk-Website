@@ -138,16 +138,15 @@ html[dir="rtl"] .btn-arrow{ transform: scaleX(-1); }
 /* -------------------- Navigation -------------------- */
 .nav{
   position: fixed; top:0; left:0; right:0; z-index: 1000;
-  background: rgba(253,247,247,.95);
-  backdrop-filter: blur(10px);
+  background: #ffffff;
   padding: .55rem 0;
   box-shadow: 0 2px 20px -8px rgba(15,15,16,.14);
-  transition: padding .4s var(--ease), box-shadow .4s var(--ease), background .4s var(--ease);
+  transition: padding .4s var(--ease), box-shadow .4s var(--ease);
 }
 .nav .container{ display:flex; align-items:center; justify-content:space-between; gap: clamp(1.5rem,3vw,3rem); }
 .nav.is-scrolled{
   padding: .4rem 0;
-  background: rgba(253,247,247,.98);
+  background: #ffffff;
   box-shadow: 0 8px 28px -10px rgba(15,15,16,.2);
 }
 .nav-brand{ display:flex; align-items:center; gap:.75rem; }
