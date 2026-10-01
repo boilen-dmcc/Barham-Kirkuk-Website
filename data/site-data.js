@@ -11,7 +11,7 @@ const COMPANY_INFO = {
   legalNameAr: "شركة برهم كركوك للصناعات التحويلية",
   domain: "https://barhamkirkuk.com",
   email: "info@barhamkirkuk.com",
-  phone: "+964 XXX XXX XXXX",
+  phone: "+964 770 135 1515",
   location: {
     en: "Sulaymaniyah Road, near Azadi Hospital, Kirkuk, Iraq",
     ar: "كركوك، طريق السليمانية، قرب مستشفى آزادي، العراق"
